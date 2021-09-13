@@ -1,8 +1,6 @@
 from github import Github
 import github
-from github import NamedUser
-from github import PaginatedList
-from github import Organization
+from github import NamedUser, PaginatedList, Organization
 import os
 import typing as t
 import time
